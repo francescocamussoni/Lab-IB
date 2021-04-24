@@ -1,6 +1,6 @@
 # Lab-IB
 
-Data processing of engineering laboratory practices at Balseiro Institute:
+Data processing of engineering lab practices at Balseiro Institute:
 
 1. Characterization of powers and efficiencies of a diesel engine using a test bench
 2. Motor driven aluminum disc by flexible shaft position control.
